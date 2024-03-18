@@ -3,7 +3,7 @@
 
 ## I'm a senior full-stack developer
 
-- 🔭 I just launched my first extension: [NuGet Package Manager GUI](https://marketplace.visualstudio.com/items?itemName=aliasadidev.nugetpackagemanagergui)
+- 🔭 I launched my first extension: [NuGet Package Manager GUI](https://marketplace.visualstudio.com/items?itemName=aliasadidev.nugetpackagemanagergui)
 - 🌱 I'm currently learning everything
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
